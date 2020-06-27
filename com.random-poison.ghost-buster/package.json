@@ -3,5 +3,10 @@
     "version": "1.0.0",
     "displayName": "Ghost Buster",
     "description": "Removes references to Boo.Lang and UnityScript assemblies in generated csproj files.",
-    "unity": "2019.3"
+    "unity": "2018.4",
+    "author": {
+        "name": "David LeGare",
+        "email": "dlegare.1001@gmail.com",
+        "url": "https://randompoison.github.io/"
+    }
 }
