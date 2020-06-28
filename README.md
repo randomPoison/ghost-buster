@@ -1,5 +1,7 @@
 # Ghost Buster
 
+[![openupm](https://img.shields.io/npm/v/com.random-poison.ghost-buster?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.random-poison.ghost-buster/)
+
 :ghost::gun: Remove references to Boo and UnityScript in generated `.csproj` files.
 
 ---
@@ -12,7 +14,7 @@ Well never fear! ghost-buster is here to exorcize `Boo.Lang` and its undead frie
 
 # Usage
 
-The recommended way to install this package is using the OpenUPM CLI tool:
+ghost-buster is [available on OpenUPM](https://openupm.com/packages/com.random-poison.ghost-buster/). The recommended way to install this package is using the OpenUPM CLI tool:
 
 ```
 openupm add com.random-poison.ghost-buster
